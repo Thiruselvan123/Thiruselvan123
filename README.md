@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Thiruselvan  
 
-🚀 Full Stack Developer | Java | React | Spring Boot  
+🚀 Full Stack Developer | Java/Javascript | React | Node.js  
 
 ### 🔧 Technologies & Tools  
 ![Java](https://img.shields.io/badge/Code-Java-blue?logo=java)
