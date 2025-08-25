@@ -5,7 +5,7 @@
 ### 🔧 Technologies & Tools  
 ![Java](https://img.shields.io/badge/Code-Java-blue?logo=java)
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-![node.js](https://img.shields.io/badge/Backend-SpringBoot-green?logo=springboot)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 
 ### 📈 GitHub Stats  
 ![Thiruselvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiruselvan123&show_icons=true&theme=radical)
