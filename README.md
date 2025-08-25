@@ -19,7 +19,12 @@
 ![SkillRack Stats](https://i.postimg.cc/7hpVV5YX/Screenshot-2025-08-26-024826.png)
 
 
-_ _ _ 
+---
+
+## 📈 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=thiruselvan8031)
+
+---
 
 ## 📈 GitHub Stats
 ![Thiruselvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiruselvan123&show_icons=true&theme=radical)
