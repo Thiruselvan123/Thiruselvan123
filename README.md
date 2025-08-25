@@ -36,7 +36,7 @@
 |---------|-------------|------------|------|
 | **DevConnect** | A MERN stack developer network for connecting developers | MongoDB, Express, React, Node.js | [GitHub](https://github.com/Thiruselvan123/devconnect) |
 | **IT Career Hub** | Video platform for IT career guidance and learning | React, Node.js, MongoDB | [GitHub](https://github.com/Thiruselvan123/it-career-hub) |
-| **Portfolio Website** | Personal portfolio showcasing projects and skills | React, Tailwind CSS | [Live Demo](https://thiruselvan-portfolio.vercel.app) |
+| **Portfolio Website** | Personal portfolio showcasing projects and skills | React, Tailwind CSS | [Live Demo](https://thiruselvan.netlify.app/) |
 
 ---
 
