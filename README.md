@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Thiruselvan  
 
-🚀 Full Stack Developer | Java/Javascript | React | Node.js  
+🚀 Software Developer | Mern Stack | Java | React | Node.js 
 
 ### 🔧 Technologies & Tools  
 ![Java](https://img.shields.io/badge/Code-Java-blue?logo=java)
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green?logo=springboot)
+![node.js](https://img.shields.io/badge/Backend-SpringBoot-green?logo=springboot)
 
 ### 📈 GitHub Stats  
 ![Thiruselvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiruselvan123&show_icons=true&theme=radical)
