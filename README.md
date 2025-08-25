@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/thiruselvan-e) | [Portfolio](https://thiruselvan.netlify.app/)) | [GitHub](https://github.com/Thiruselvan123)  
+[LinkedIn](https://www.linkedin.com/in/thiruselvan-e) | [Portfolio](https://thiruselvan.netlify.app/) | [GitHub](https://github.com/Thiruselvan123)  
  
 ---
 
