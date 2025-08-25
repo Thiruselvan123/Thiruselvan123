@@ -15,8 +15,8 @@
 
 ---
 
-## SkillRack
-![SkillRack Stats](https://www.skillrack.com/faces/resume.xhtml?id=421711&key=9cf0e8ee06158854c105655babb91dd816d03c38)
+## 💻 SkillRack Stats
+![SkillRack Stats](https://i.postimg.cc/7hpVV5YX/Screenshot-2025-08-26-024826.png)
 
 
 _ _ _ 
