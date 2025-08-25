@@ -16,4 +16,4 @@
 - [Portfolio Website](https://thiruselvan-portfolio.vercel.app)  
 
 ### 📫 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/thiruselvan-e) | [Portfolio](https://thiruselvan-portfolio.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/thiruselvan-e) | [Portfolio](https://thiruselvan.netlify.app/)  [Portfolio 2](https://thiruselvan-portfolio.vercel.app)
