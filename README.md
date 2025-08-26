@@ -2,7 +2,8 @@
 
 🚀 **Software / MERN Stack Developer | Java | React | Spring Boot**  
 
-[Views](https://komarev.com/ghpvc/?username=Thiruselvan123&color=green&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Thiruselvan123&color=green&style=for-the-badge)
+
 
 ---
 
