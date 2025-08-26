@@ -2,6 +2,8 @@
 
 🚀 **Software / MERN Stack Developer | Java | React | Spring Boot**  
 
+(https://komarev.com/ghpvc/?username=Thiruselvan123&color=green&style=for-the-badge)
+
 ---
 
 ## 🔧 Technologies & Tools
