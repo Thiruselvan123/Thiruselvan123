@@ -25,7 +25,8 @@
 ---
 
 ## 📈 LeetCode Stats
-![LeetCode problems](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fthiruselvan8031)
+![LeetCode Stats](https://leetcode-stats-api.vercel.app/thiruselvan8031)
+
 
 
 
