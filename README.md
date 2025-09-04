@@ -25,7 +25,7 @@
 ---
 
 ## 📈 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Thiruselvan123?theme=dark&font=Source%20Code%20Pro&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/thiruselvan8031?theme=dark&font=Source%20Code%20Pro&ext=activity)
 
 
 ---
