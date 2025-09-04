@@ -25,7 +25,8 @@
 ---
 
 ## 📈 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=thiruselvan8031)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Thiruselvan123?theme=dark&font=Source%20Code%20Pro&ext=activity)
+
 
 ---
 
