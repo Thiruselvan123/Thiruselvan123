@@ -25,7 +25,8 @@
 ---
 
 ## 📈 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/thiruselvan8031?theme=dark&font=Source%20Code%20Pro&ext=activity)
+![LeetCode problems](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fthiruselvan8031)
+
 
 
 ---
